@@ -60,11 +60,11 @@ ViStocks is a stock analysis and prediction tool that allows users to view histo
 ## Screenshots
 
 ### Home Page
-![Stock Data Visualization](screenshots/1.png)
+![Stock Data Visualization](screenshots/1.jpg)
 
 ### Stock Price Visualization
-![Stock Price Prediction](screenshots/2.png)
-![Stock Price Prediction](screenshots/3.png)
+![Stock Price Prediction](screenshots/2.jpg)
+![Stock Price Prediction](screenshots/3.jpg)
 
 ## Contributing
 
