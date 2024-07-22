@@ -27,7 +27,7 @@ ViStocks is a stock analysis and prediction tool that allows users to view histo
 
 1. Clone the repository:
     \`\`\`bash
-    git clone https://github.com/your-username/ViStocks.git
+    git clone [https://github.com/your-username/ViStocks.git](https://github.com/ShushantSharma372/Vistocks.git)
     cd ViStocks
     \`\`\`
 
